@@ -74,7 +74,7 @@ You can run the application in [an IBM Skills Network lab environment](https://s
 7. Create an admin user following the given prompts: `python3 manage.py createsuperuser`
 8. Run the server: `python3 manage.py runserver`
 
-The base URL is: http://127.0.0.1:8000
+The base URL is: http://localhost:8000
 
 9. To access the admin interface, visit: \<base URL\>/admin
 10. To access the end-user interface, visit: \<base URL\>/onlinecourse
