@@ -1,4 +1,4 @@
-# expressBookReviews
+# final-cloud-app-with-database
 An online course app (Final Project in [Django Application Development with SQL and Databases](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
 # What does the project do?
@@ -52,7 +52,7 @@ Using the skills I learned in the 'Django Application Development with SQL and D
 <br>
 
 # Why is the project useful?
-It's an opportunity to put my Django and SQL skills into practice.
+The project and the course's [Hands-on Labs](https://gist.github.com/nathandeflavis/37e02781c7110e96ac5f50defceab7dd) are opportunities to put my Django and SQL skills into practice.
 
 # How can users can get started with the project?
 You can run the application in [an IBM Skills Network lab environment](https://skills.network).
