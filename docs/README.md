@@ -52,7 +52,7 @@ Using the skills I learned in the 'Django Application Development with SQL and D
 <br>
 
 # Why is the project useful?
-The project and the course's [Hands-on Labs](https://gist.github.com/nathandeflavis/37e02781c7110e96ac5f50defceab7dd) are opportunities to put my Django and SQL skills into practice.
+The project and [the course's Hands-on Labs](https://gist.github.com/nathandeflavis/37e02781c7110e96ac5f50defceab7dd) are opportunities to put my Django and SQL skills into practice.
 
 # How can users can get started with the project?
 You can run the application in [an IBM Skills Network lab environment](https://skills.network).
