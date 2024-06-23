@@ -21,12 +21,6 @@ Using the skills I learned in the 'Django Application Development with SQL and D
 6. Write URLs for access.
 7. Show final result.
 
-## Screenshots
-<img width="1552" alt="07-final" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/8e7be4bd-0929-42a1-83f4-9cdefcdf551d">
-<br>
-<sub>Final result.</sub>
-<br>
-
 # Why is the project useful?
 The project and [the course's Hands-on Labs](https://gist.github.com/nathandeflavis/37e02781c7110e96ac5f50defceab7dd) are opportunities to put my Django and SQL skills into practice.
 
