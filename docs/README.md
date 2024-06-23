@@ -22,30 +22,6 @@ Using the skills I learned in the 'Django Application Development with SQL and D
 7. Show final result.
 
 ## Screenshots
-<img width="742" alt="01-models" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/aa8cf590-3c46-4c54-ab5b-0e16a4242747">
-<br>
-<sub>Models.</sub>
-<br>
-<img width="675" alt="02-admin-file" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/ba86b428-6268-4d50-b5b7-72b569422142">
-<br>
-<sub>Admin file.</sub>
-<br>
-<img width="1552" alt="03-admin-site" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/da41df49-24de-4be5-9a5a-00f1454e9555">
-<br>
-<sub>Admin site.</sub>
-<br>
-<img width="790" alt="04-course-details" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/8f8a1dcb-1cac-4dec-9079-fc3c132618c5">
-<br>
-<sub>Course details.</sub>
-<br>
-<img width="809" alt="05-views" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/422cd094-9161-4fb6-a172-f944506f7391">
-<br>
-<sub>Views.</sub>
-<br>
-<img width="630" alt="06-urls" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/e3ae36c1-c39e-4cca-a8a2-32b6f69ab734">
-<br>
-<sub>URLs.</sub>
-<br>
 <img width="1552" alt="07-final" src="https://github.com/nathandeflavis/final-cloud-app-with-database/assets/92447278/8e7be4bd-0929-42a1-83f4-9cdefcdf551d">
 <br>
 <sub>Final result.</sub>
