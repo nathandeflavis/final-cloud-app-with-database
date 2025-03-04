@@ -1,6 +1,9 @@
 # final-cloud-app-with-database
 An online course app ('Final Project' in [Django Application Development with SQL and Databases](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
+<img width="1552" alt="07-final" src="https://github.com/user-attachments/assets/40b929b7-b545-4d48-898f-21a6deee28ad" />
+App in Apple macOS Safari.
+
 # What does the project do?
 ## Overview
 Using the skills I learned in the 'Django Application Development with SQL and Databases' course, I planned and implemented improvements in an application given its boilerplate code; these improvements include:
