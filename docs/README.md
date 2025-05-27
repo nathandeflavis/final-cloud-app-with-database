@@ -1,6 +1,10 @@
 # final-cloud-app-with-database
 An online course app ('Final Project' in [Django Application Development with SQL and Databases](https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django) course, part of [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)).
 
+<img width="1552" alt="07-final" src="https://github.com/user-attachments/assets/4c2d2e57-4e86-4a61-83ad-221b62b9f54e" />
+
+App in Apple macOS Safari.
+
 # What does the project do?
 ## Overview
 Using the skills I learned in the 'Django Application Development with SQL and Databases' course, I planned and implemented improvements in an application given its boilerplate code; these improvements include:
@@ -22,14 +26,14 @@ Using the skills I learned in the 'Django Application Development with SQL and D
 7. Show final result.
 
 # Why is the project useful?
-The project and [the course's Hands-on Labs](https://gist.github.com/nathangjdf/37e02781c7110e96ac5f50defceab7dd) are opportunities to put my Django and SQL skills into practice.
+The project and [the course's Hands-on Labs](https://gist.github.com/nathandeflavis/37e02781c7110e96ac5f50defceab7dd) are opportunities to put my Django and SQL skills into practice.
 
 # How can users can get started with the project?
 You can run the application in [an IBM Skills Network lab environment](https://skills.network).
 
 ## Steps
 1. Open a terminal window.
-2. Clone this repository: `[ ! -d 'final-cloud-app-with-database' ] && git clone https://github.com/nathangjdf/final-cloud-app-with-database.git`
+2. Clone this repository: `[ ! -d 'final-cloud-app-with-database' ] && git clone https://github.com/nathandeflavis/final-cloud-app-with-database.git`
 3. Change to the directory **final-cloud-app-with-database**: `cd final-cloud-app-with-database`
 4. Set up a virtual environment:
 `pip install --upgrade distro-info`
@@ -54,6 +58,6 @@ The base URL is: http://localhost:8000
 Users can contact the project's maintainers and contributors for help.
 
 # Who maintains and contributes to the project?
-@nathangjdf
+@nathandeflavis
 
 README adapted from [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
