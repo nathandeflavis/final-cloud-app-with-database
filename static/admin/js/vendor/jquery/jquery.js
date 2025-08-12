@@ -5976,7 +5976,8 @@ function remove( elem, selector, keepData ) {
 
 jQuery.extend( {
 	htmlPrefilter: function( html ) {
-		return html.replace( rxhtmlTag, "<$1></$2>" );
+		// Removed unsafe expansion of self-closing HTML tags.
+		return html;
 	},
 
 	clone: function( elem, dataAndEvents, deepDataAndEvents ) {
