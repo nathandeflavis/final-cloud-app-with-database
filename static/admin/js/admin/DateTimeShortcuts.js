@@ -398,7 +398,7 @@
         handleCalendarCallback: function(num) {
             var format = get_format('DATE_INPUT_FORMATS')[0];
             // the format needs to be escaped a little
-            format = format.replace('\\', '\\\\')
+            format = format.replace(/\\/g, '\\\\')
                 .replace('\r', '\\r')
                 .replace('\n', '\\n')
                 .replace('\t', '\\t')
